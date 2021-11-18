@@ -9,5 +9,5 @@ const PORT=8080;
 
 app.listen(8080, () => {
     
-   console.log("Example app listening at")
+   console.log("Example app")
 }) 
